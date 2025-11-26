@@ -7,4 +7,4 @@ meow awef
  - <a href="https://github.com/NeoRazer504">NeoRazer</a>
 
 ## Number of Views
-![:studio-bdt](https://count.getloli.com/@:studio-bdt)
+![:studio-bdt](https://count.getloli.com/@:studio-bdt?theme=miku)
