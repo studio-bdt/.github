@@ -2,7 +2,7 @@
 meow awef
 
 ## Website
-<a href="[studio-bdt.github.io](https://studio-bdt.github.io/)">Here!</a>
+<a href="https://studio-bdt.github.io/">Here!</a>
 
 ---
 
