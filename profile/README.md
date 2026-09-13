@@ -1,5 +1,6 @@
 # Studio BDT
-meow awef
+
+we build websites and crappy code 
 
 ## Website
 <a href="https://studio-bdt.github.io/">Here!</a>
